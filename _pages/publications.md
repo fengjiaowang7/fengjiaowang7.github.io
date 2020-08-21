@@ -12,9 +12,9 @@ Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, <b>Fengjiao Wang</b>.
 Xiao Pan, Jiawei Zhang, <b>Fengjiao Wang</b>, Philip S. Yu.
 <i>2016 IEEE International Conference on Big Data</i>. <b>BigData 2016</b>.
 
-<b>[Steering Information Diffusion Dynamically against User Attention Limitation](http://fengjiaowang7.github.io/publications/FengjiaoPAKDD2017)</b> <br> 
-Xiao Pan, Jiawei Zhang, <b>Fengjiao Wang</b>, Philip S. Yu.
-<i>2016 IEEE International Conference on Big Data</i>. <b>BigData 2016</b>.
+<b>[Deep and Broad Learning on Content-Aware POI Recommendation](http://fengjiaowang7.github.io/publications/FengjiaoCIC2017)</b> <br> 
+<b>Fengjiao Wang</b>, Yongzhi Qu, Lei Zheng, Chun-Ta Lu, Philip S. Yu.
+<i>The 3rd IEEE International Conference on Collaboration and Internet Computing</i>. <b>CIC 2017</b>.
 
 <b>[Collective Geographical Embedding for Geolocating Social Network Users](http://fengjiaowang7.github.io/publications/FengjiaoPAKDD2017)</b> <br> 
 <b>Fengjiao Wang</b>, Chun-Ta Lu, Yongzhi Qu, Philip S. Yu.
