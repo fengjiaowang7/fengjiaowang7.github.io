@@ -8,6 +8,10 @@ author_profile: true
 Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, <b>Fengjiao Wang</b>.
 <i>The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i>. <b>KDD 2010</b>
 
+<b>[Collaborative Co-clustering across Multiple Social Media](http://fengjiaowang7.github.io/publications/FengjiaoMDM2016)</b> <br> 
+<b>Fengjiao Wang</b>, Shuyang Lin, Philip S. Yu.
+<i>The 17th IEEE International Confe- rence on Mobile Data Management</i>. <b>MDM 2016</b>.
+
 <b>[Concurrent Goal-oriented Co-clustering Generation in Social Networks](http://fengjiaowang7.github.io/publications/FengjiaoICSD2015)</b> <br> 
 <b>Fengjiao Wang</b>, Guan Wang, Shuyang Lin, Philip S. Yu.
 <i>The 9th IEEE International Conference on Semantic Computing</i>. <b>ICSC 2015</b>.
