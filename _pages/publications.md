@@ -8,6 +8,10 @@ author_profile: true
 Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, <b>Fengjiao Wang</b>.
 <i>The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i>. <b>KDD 2010</b>
 
+<b>[Steering Information Diffusion Dynamically against User Attention Limitation](http://fengjiaowang7.github.io/publications/ShuyangICDM2014)</b> <br> 
+Shuyang Lin, Qingbo Hu, <b>Fengjiao Wang</b>, Philip S. Yu.
+<i>The 14th IEEE International Conference on Data Mining</i>. <b>ICDM 2014</b>.
+
 <b>[Defending against User Identity Linkage Attack across Multiple Online Social Networks](http://fengjiaowang7.github.io/publications/YilinWWW2014)</b> <br> 
 Yilin Shen, <b>Fengjiao Wang</b>, Hongxia Jin.
 <i>The 23rd international conference on World Wide Web Companion</i>. <b>WWW Companion 2014</b>.
