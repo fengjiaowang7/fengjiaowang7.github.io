@@ -8,6 +8,10 @@ author_profile: true
 Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, <b>Fengjiao Wang</b>.
 <i>The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i>. <b>KDD 2010</b>
 
+<b>[Defending against User Identity Linkage Attack across Multiple Online Social Networks](http://fengjiaowang7.github.io/publications/YilinWWW2014)</b> <br> 
+Yilin Shen, <b>Fengjiao Wang</b>, Hongxia Jin.
+<i>The 23rd international conference on World Wide Web Companion</i>. <b>WWW Companion 2014</b>.
+
 <b>[When and Where: Predicting Human Movements Based on Social Spatial-Temporal Events](http://fengjiaowang7.github.io/publications/NingSDM2014)</b> <br> 
 Ning Yang, Xiangnan Kong, <b>Fengjiao Wang</b>, Philip S. Yu.
 <i>2014 SIAM International Conference on Data Mining</i>. <b>SDM 2014</b>.
