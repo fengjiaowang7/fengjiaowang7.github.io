@@ -8,9 +8,9 @@ author_profile: true
 Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, <b>Fengjiao Wang</b>.
 <i>The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i>. <b>KDD 2010</b>
 
-<b>[Steering Information Diffusion Dynamically against User Attention Limitation](http://fengjiaowang7.github.io/publications/XiaoBigData2016)</b> <br> 
-Xiao Pan, Jiawei Zhang, <b>Fengjiao Wang</b>, Philip S. Yu.
-<i>2016 IEEE International Conference on Big Data</i>. <b>BigData 2016</b>.
+<b>[PER: A Probabilistic Attentional Model for Personalized Text Recommendations](http://fengjiaowang7.github.io/publications/LeiBigData2018)</b> <br> 
+Lei Zheng, Yixue Wang, Lifang He, Sihong Xie, <b>Fengjiao Wang</b>, Philip S. Yu.
+<i>2018 IEEE International Conference on Big Data</i>. <b>BigData 2018</b>.
 
 <b>[Deep and Broad Learning on Content-Aware POI Recommendation](http://fengjiaowang7.github.io/publications/FengjiaoCIC2017)</b> <br> 
 <b>Fengjiao Wang</b>, Yongzhi Qu, Lei Zheng, Chun-Ta Lu, Philip S. Yu.
