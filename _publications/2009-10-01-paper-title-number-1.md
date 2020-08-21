@@ -2,7 +2,6 @@
 title: "Social Action Tracking via Noise Tolerant Time-varying Factor Graphs"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Fengjiao Wang.'
 date: 2009-10-01
 venue: 'The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2010)'
 citation: 'Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, <b>Fengjiao Wang</b>. <i>The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2010)</i>. <b>KDD 2010</b>.'
