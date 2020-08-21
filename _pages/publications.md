@@ -8,6 +8,10 @@ author_profile: true
 Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, <b>Fengjiao Wang</b>.
 <i>The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i>. <b>KDD 2010</b>
 
+<b>[When and Where: Predicting Human Movements Based on Social Spatial-Temporal Events](http://fengjiaowang7.github.io/publications/NingSDM2014)</b> <br> 
+Ning Yang, Xiangnan Kong, <b>Fengjiao Wang</b>, Philip S. Yu.
+<i>2014 SIAM International Conference on Data Mining</i>. <b>SDM 2014</b>.
+
 <b>[Extracting Social Events for Learning Better Information Diffusion Models](http://fengjiaowang7.github.io/publications/ShuyangKDD2013)</b> <br> 
 Shuyang Lin, <b>Fengjiao Wang</b>, Qingbo Hu, Philip S. Yu.
 <i>The 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i>. <b>KDD 2013</b>.
