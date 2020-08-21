@@ -8,6 +8,10 @@ author_profile: true
 Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, <b>Fengjiao Wang</b>.
 <i>The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i>. <b>KDD 2010</b>
 
+<b>[Steering Information Diffusion Dynamically against User Attention Limitation](http://fengjiaowang7.github.io/publications/XiaoBigData2016)</b> <br> 
+Xiao Pan, Jiawei Zhang, <b>Fengjiao Wang</b>, Philip S. Yu.
+<i>2016 IEEE International Conference on Big Data</i>. <b>BigData 2016</b>.
+
 <b>[Collaborative Co-clustering across Multiple Social Media](http://fengjiaowang7.github.io/publications/FengjiaoMDM2016)</b> <br> 
 <b>Fengjiao Wang</b>, Shuyang Lin, Philip S. Yu.
 <i>The 17th IEEE International Confe- rence on Mobile Data Management</i>. <b>MDM 2016</b>.
