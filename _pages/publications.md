@@ -14,7 +14,7 @@ Xiao Pan, Jiawei Zhang, <b>Fengjiao Wang</b>, Philip S. Yu.
 
 <b>[Collaborative Co-clustering across Multiple Social Media](http://fengjiaowang7.github.io/publications/FengjiaoMDM2016)</b> <br> 
 <b>Fengjiao Wang</b>, Shuyang Lin, Philip S. Yu.
-<i>The 17th IEEE International Confe- rence on Mobile Data Management</i>. <b>MDM 2016</b>.
+<i>The 17th IEEE International Conference on Mobile Data Management</i>. <b>MDM 2016</b>.
 
 <b>[Concurrent Goal-oriented Co-clustering Generation in Social Networks](http://fengjiaowang7.github.io/publications/FengjiaoICSD2015)</b> <br> 
 <b>Fengjiao Wang</b>, Guan Wang, Shuyang Lin, Philip S. Yu.
