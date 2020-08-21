@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Social Action Tracking via Noise Tolerant Time-varying Factor Graphs](http://fengjiaowang7.github.io/publications/ChenhaoKDD2010)</b> <br> 
-Chenhao Tan, Jie Tang, Jimeng Sun, Quan Lin, <b>Fengjiao Wang</b>.
-<i>The 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</i>. <b>KDD 2010</b>
+<b>[Image Generation Via Minimizing Fréchet Distance in Discriminator Feature Space](http://fengjiaowang7.github.io/publications/Khoa2020)</b> <br> 
+Khoa D. Doan, Saurav Manchanda, <b>Fengjiao Wang</b>, S. Sathiya Keerthi, Avradeep Bhowmik, Chandan K. Reddy.
+<i>ArXiv 2020</i>. 
 
 <b>[PER: A Probabilistic Attentional Model for Personalized Text Recommendations](http://fengjiaowang7.github.io/publications/LeiBigData2018)</b> <br> 
 Lei Zheng, Yixue Wang, Lifang He, Sihong Xie, <b>Fengjiao Wang</b>, Philip S. Yu.
