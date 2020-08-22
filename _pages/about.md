@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Fengjiao Wang’s home on the web!
+Dr. Fengjiao Wang is an Assistant Professor in Computer Science in the college of sciences at the Old Dominion University.
 
