@@ -13,3 +13,6 @@ Dr. Fengjiao Wang is an Assistant Professor in Computer Science in the college o
 <b>Email:</b> f1wang at odu.edu  
 <b>Office:</b> E&CS 3206, 4700 Elkhorn Ave, Norfolk, VA 23529
 
+<b>News</b>
+
+
