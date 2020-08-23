@@ -18,7 +18,7 @@ Dr. Fengjiao Wang is an Assistant Professor in Computer Science in the college o
     * Office hours and Appointments: Tuesday 1:00-2:00pm, Wednesday 11:00-12:00pm
     
 <b>Research</b>   
-I am looking for highly motivated PhD applicants with a keen interest in Mahcine Mearning, Data Mining, and Privacy.
+I am looking for highly motivated PhD applicants with a keen interest in Mahcine Mearning, Data Mining, and User Privacy.
 
 
 
