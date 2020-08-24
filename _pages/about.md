@@ -15,10 +15,10 @@ Dr. Fengjiao Wang is an Assistant Professor in Computer Science in the college o
 
 <b>Teaching</b>  
   * Fall 2020: [CS361: DATA STRUCTURES/ALGORITHMS](https://www.cs.odu.edu/~zeil/cs361/f20_wang/)
-    * Office hours and Appointments: Tuesday 1:00-2:00pm, Wednesday 11:00-12:00pm
+    * Office hours and Appointments: Tuesday 1:00-2:00pm, Thursday 11:00-12:00pm. If none of the listed times are possible for you, contact me to make an appointment outside my regular office hour.
     
 <b>Research</b>   
-I am looking for highly motivated PhD applicants with a keen interest in Mahcine Mearning, Data Mining, and User Privacy.
+I am looking for highly motivated graduate and undergraduate students with a keen interest in Machine Learning, Data Mining, and User Privacy.
 
 
 
