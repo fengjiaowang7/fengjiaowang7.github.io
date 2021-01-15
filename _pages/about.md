@@ -14,7 +14,7 @@ Dr. Fengjiao Wang is an Assistant Professor in Computer Science in the college o
 <b>Office:</b> E&CS 3206, 4700 Elkhorn Ave, Norfolk, VA 23529
 
 <b>Teaching</b> 
-  * Spring 2021: [CS624: Data ANALYTICS AND BIG DATA](https://github.com/fengjiaowang7/CS624)
+  * Spring 2021: [CS624: DATA ANALYTICS AND BIG DATA](https://github.com/fengjiaowang7/CS624)
   * Fall 2020: [CS361: DATA STRUCTURES/ALGORITHMS](https://www.cs.odu.edu/~zeil/cs361/f20_wang/)
     
 <b>Research</b>   
